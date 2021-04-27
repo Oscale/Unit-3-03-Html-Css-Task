@@ -1,0 +1,31 @@
+#header {
+  background-color: #fff;
+  color: blue;
+  padding: 21px;
+  height: 25px;
+  border: dashed;
+  position: fixed;
+  top: -19px;
+  left: 0;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+#img1{
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+#img2{
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+#img3{
+  float: none;
+  width: 500px;
+  height: 2000px
+}
+
